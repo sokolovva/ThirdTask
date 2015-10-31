@@ -1,0 +1,8 @@
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\bin\Debug\WordGame.exe.config
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\bin\Debug\WordGame.exe
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\bin\Debug\WordGame.pdb
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\obj\Debug\WordGame.csprojResolveAssemblyReference.cache
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\obj\Debug\WordGame.exe
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\obj\Debug\WordGame.pdb
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\petya\Desktop\tasks\WordGame\WordGame\bin\Debug\Newtonsoft.Json.xml
